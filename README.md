@@ -78,23 +78,7 @@ fact_aggregated_bookings ── room_category ──► dim_rooms
 | dim_date | Typo "weekeday" in 65 rows | Fixed to "weekday" |
 | dim_date | Date format "01-May-22" | Converted to "2022-05-01" |
 
----
 
-## 📈 Dashboard KPIs (11 Total)
-
-| # | KPI | Type |
-|---|---|---|
-| 1 | Total Revenue | KPI Card |
-| 2 | Occupancy Rate % | KPI Card |
-| 3 | Cancellation Rate % | KPI Card |
-| 4 | Total Bookings | KPI Card |
-| 5 | Utilized Capacity | KPI Card |
-| 6 | Weekly Trend Analysis | Line Chart |
-| 7 | Weekday vs Weekend Revenue | Bar Chart |
-| 8 | Revenue by City & Hotel | Bar Chart |
-| 9 | Class Wise Revenue | Donut Chart |
-| 10 | Checked Out / Cancelled / No Show | Donut Chart |
-| 11 | Weekly Key Metrics (ADR, RevPAR, Occupancy) | Table |
 
 ---
 
