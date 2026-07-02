@@ -92,7 +92,7 @@ fact_aggregated_bookings ── room_category ──► dim_rooms
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](assets/dashboard_preview.png)
+![Dashboard Overview](https://github.com/Sanchit-Mhatre/cart-abandonment-analysis/blob/main/PBi%20DashBoard/src/Screenshot%202026-06-02%20215244.png)
 
 
 
