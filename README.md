@@ -90,6 +90,9 @@ fact_aggregated_bookings ── room_category ──► dim_rooms
 
 
 
+## 📸 Dashboard Preview
+
+![Dashboard Preview](assets/dashboard_preview.png)
 
 
 
